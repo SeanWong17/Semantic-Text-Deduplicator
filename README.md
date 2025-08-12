@@ -47,7 +47,7 @@
 
 1.  **克隆项目**
     ```bash
-    git clone [https://github.com/your-username/Semantic-Text-Deduplicator.git](https://github.com/your-username/Semantic-Text-Deduplicator.git)
+    git clone [https://github.com/SeanWong17/Semantic-Text-Deduplicator.git](https://github.com/SeanWong17/Semantic-Text-Deduplicator.git)
     cd Semantic-Text-Deduplicator
     ```
 
